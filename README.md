@@ -25,21 +25,21 @@ I want to create an open-source list of the companies, reasons why they are cons
 
 ## Reason Why Companies are Considered AI Stocks
 
-[AMZN](http://www.cnbc.com/quotes/?symbol=AMZN) - Amazon.com
-Cloud, Hardware
+[AMZN](http://www.cnbc.com/quotes/?symbol=AMZN) - Amazon.com  
+Cloud, Hardware  
 AWS machine learning features and Alexa.
 
-[AMD](http://www.cnbc.com/quotes/?symbol=AMD) - AMD
+[AMD](http://www.cnbc.com/quotes/?symbol=AMD) - AMD  
 Hardware
 
-[AAPL](http://www.cnbc.com/quotes/?symbol=AAPL) - Apple
-Hardware
+[AAPL](http://www.cnbc.com/quotes/?symbol=AAPL) - Apple  
+Hardware  
 Siri, Software
 
-# Trading Insight and Tips
+## Trading Insight and Tips
 
 
-# Articles
+## Articles
 * [A Machine Learning Landscape: Where AMD, Intel, NVIDIA, Qualcomm And Xilinx AI Engines Live](https://www.forbes.com/sites/moorinsights/2017/03/03/a-machine-learning-landscape-where-amd-intel-nvidia-qualcomm-and-xilinx-ai-engines-live/#1968fcaa742f)
 * [Artificial Intelligence Stocks: 10 Companies Betting on AI](http://money.usnews.com/investing/articles/2017-03-31/artificial-intelligence-stocks-10-companies-betting-on-ai)
 
