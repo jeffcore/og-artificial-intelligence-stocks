@@ -36,7 +36,7 @@ Hardware
 Hardware  
 Siri, Software
 
-## Trading Insight and Tips
+## Trading Insights and Tips
 
 
 ## Articles
