@@ -2,7 +2,7 @@
 Online guide for trading artificial intelligence / machine learning stocks. 
 
 ## Why?
-I want to create an open-source list of the companies, reasons why they are considered AI/ML, articles related to the subject and tips for trading. I have made over $40,000 trading these stocks over the past year.
+I want to create an open-source list of the companies, reasons why they are considered AI/ML, articles related to the subject and tips for trading. I have made over $40,000 trading these stocks over the past year. 
 
 ## Public AI Companies
 
@@ -11,8 +11,7 @@ I want to create an open-source list of the companies, reasons why they are cons
 * [AAPL](http://www.cnbc.com/quotes/?symbol=AAPL) - Apple
 * [BIDU](http://www.cnbc.com/quotes/?symbol=BIDU) - Baidu
 * [FB](http://www.cnbc.com/quotes/?symbol=FB) - Facebook
-* [GOOG](http://www.cnbc.com/quotes/?symbol=GOOG) - Alphabet
-* [GOOGL](http://www.cnbc.com/quotes/?symbol=GOOGL) - Alphabet
+* [GOOG](http://www.cnbc.com/quotes/?symbol=GOOG) [GOOGL](http://www.cnbc.com/quotes/?symbol=GOOGL)  - Alphabet
 * [IBM](http://www.cnbc.com/quotes/?symbol=IBM) - IBM
 * [INTL](http://www.cnbc.com/quotes/?symbol=INTL) - Intel
 * [MSFT](http://www.cnbc.com/quotes/?symbol=MSFT) - Microsoft
@@ -30,11 +29,22 @@ Cloud, Hardware
 AWS machine learning features and Alexa.
 
 [AMD](http://www.cnbc.com/quotes/?symbol=AMD) - AMD  
-Hardware
+Hardware  
+GPU Chips  
 
 [AAPL](http://www.cnbc.com/quotes/?symbol=AAPL) - Apple  
-Hardware  
-Siri, Software
+Hardware, Software  
+Siri  
+
+[BIDU](http://www.cnbc.com/quotes/?symbol=BIDU) - Baidu  
+Software  
+
+[FB](http://www.cnbc.com/quotes/?symbol=FB) - Facebook  
+Software  
+
+[GOOG](http://www.cnbc.com/quotes/?symbol=GOOG) [GOOGL](http://www.cnbc.com/quotes/?symbol=GOOGL)  - Alphabet  
+Cloud, Software, Hardware  
+Google Home, Self-Driving Cars, Tensorflow
 
 ## Trading Insights and Tips
 
