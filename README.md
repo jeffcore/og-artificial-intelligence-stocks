@@ -49,7 +49,7 @@ Cloud, Software, Hardware
 Google Home, Self-Driving Cars, Tensorflow
 
 ## Trading Insights and Tips
-
+At this point, there is not one AI only publicly traded company. Instead, we have a group of companies trying to turn themselves into AI companies. I have been following the companies level of investment into AI (Google/Facebook High) and money making hardware or services (AWS Cloud/Google Cloud/Processor Companies).  
 
 ## Articles
 * [A Machine Learning Landscape: Where AMD, Intel, NVIDIA, Qualcomm And Xilinx AI Engines Live](https://www.forbes.com/sites/moorinsights/2017/03/03/a-machine-learning-landscape-where-amd-intel-nvidia-qualcomm-and-xilinx-ai-engines-live/#1968fcaa742f)
