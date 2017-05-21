@@ -19,7 +19,9 @@ I want to create an open-source list of the companies, reasons why they are cons
 * [TSLA](http://www.cnbc.com/quotes/?symbol=TSLA) - Tesla
 
 ## Possible AI Companies (need more research)
-* [XLNX](http://www.cnbc.com/quotes/?symbol=XLNX) - Xilinx
+* [XLNX](http://www.cnbc.com/quotes/?symbol=XLNX) - Xilinx - processors
+* [QCOM](http://www.cnbc.com/quotes/?symbol=QCOM) - Qualcomm - processors
+* [CRM](http://www.cnbc.com/quotes/?symbol=CRM) - Salesforce - SAAS
 
 
 ## Reason Why Companies are Considered AI Stocks
@@ -52,4 +54,3 @@ Google Home, Self-Driving Cars, Tensorflow
 ## Articles
 * [A Machine Learning Landscape: Where AMD, Intel, NVIDIA, Qualcomm And Xilinx AI Engines Live](https://www.forbes.com/sites/moorinsights/2017/03/03/a-machine-learning-landscape-where-amd-intel-nvidia-qualcomm-and-xilinx-ai-engines-live/#1968fcaa742f)
 * [Artificial Intelligence Stocks: 10 Companies Betting on AI](http://money.usnews.com/investing/articles/2017-03-31/artificial-intelligence-stocks-10-companies-betting-on-ai)
-
