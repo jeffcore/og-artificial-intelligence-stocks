@@ -43,6 +43,7 @@ Software
 
 [FB](http://www.cnbc.com/quotes/?symbol=FB) - Facebook  
 Software  
+Messenger  
 
 [GOOG](http://www.cnbc.com/quotes/?symbol=GOOG) [GOOGL](http://www.cnbc.com/quotes/?symbol=GOOGL)  - Alphabet  
 Cloud, Software, Hardware  
