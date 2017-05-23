@@ -40,6 +40,7 @@ Siri
 
 [BIDU](http://www.cnbc.com/quotes/?symbol=BIDU) - Baidu  
 Software  
+Andrew Ng built their AI Division
 
 [FB](http://www.cnbc.com/quotes/?symbol=FB) - Facebook  
 Software  
