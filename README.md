@@ -32,7 +32,7 @@ AWS machine learning features and Alexa.
 
 [AMD](http://www.cnbc.com/quotes/?symbol=AMD) - AMD  
 Hardware  
-GPU Chips  
+GPU Processors  
 
 [AAPL](http://www.cnbc.com/quotes/?symbol=AAPL) - Apple  
 Hardware, Software  
@@ -49,6 +49,26 @@ Messenger
 [GOOG](http://www.cnbc.com/quotes/?symbol=GOOG) [GOOGL](http://www.cnbc.com/quotes/?symbol=GOOGL)  - Alphabet  
 Cloud, Software, Hardware  
 Google Home, Self-Driving Cars, Tensorflow
+
+[IBM](http://www.cnbc.com/quotes/?symbol=IBM) - IBM  
+Software  
+Watson  
+
+[INTL](http://www.cnbc.com/quotes/?symbol=INTL) - Intel  
+Hardware  
+Processors  
+
+[MSFT](http://www.cnbc.com/quotes/?symbol=MSFT) - Microsoft  
+Cloud  
+Azure  
+
+[NVDA](http://www.cnbc.com/quotes/?symbol=NVDA) - Nvidia  
+Hardware
+GPU Processors  
+
+[TSLA](http://www.cnbc.com/quotes/?symbol=TSLA) - Tesla  
+Hardware  
+Self Driving Cars  
 
 ## Trading Insights and Tips
 At this point, there is not one AI only publicly traded company. Instead, we have a group of companies trying to turn themselves into AI companies. I have been following the companies' level of investment into AI (Google/Facebook High) and money making hardware or services (AWS Cloud/Google Cloud/Processor Companies).  
